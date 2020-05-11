@@ -1,0 +1,13 @@
+name: ZenithAdditions
+author: Stellrow
+version: 1.0
+api-version: 1.13
+main: me.Stellrow.ZenithAdditions.ZenithAdditions
+
+commands:
+  silk:
+    usage: /silk
+    description: Adds the silk touch enchantment on the tool
+  rewards:
+    usage: /rewards
+    description: Shows the rewards received from voting!

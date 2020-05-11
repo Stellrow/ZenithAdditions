@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ZenithAdditions:jar">
+    <output-path>$USER_HOME$/Desktop/D/Default paper/1.15 paper/plugins</output-path>
+    <root id="archive" name="ZenithAdditions.jar">
+      <element id="module-output" name="ZenithAdditions" />
+    </root>
+  </artifact>
+</component>
